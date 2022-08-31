@@ -1,0 +1,43 @@
+.b{font-size:  18px;line-height: 12px;display:flex;padding-right: 30px;}
+.k{font-size:  18px;line-height: 12px;}
+.M{padding-left: 20px;}
+
+h1{ color:palevioletred;
+    padding: 35px;}
+   
+body {
+    background-color:dimgray;
+    padding: 80px;
+    font-family: Alice
+}
+.abo{padding-left: 40px;padding-bottom: 100px;}
+.about{
+    font-size: 200%;
+    opacity: 70%;
+    color: black;
+}
+.Experience{font-size: 26px; color:darkorange; font-family:Marck Script}
+.new{font-size:  22px;}
+.when{ padding: 2px;line-height: 24px;font-size:  18px;}
+.us{font-size:  22px;}
+.with{padding: 2px;line-height: 24px;font-size:  18px;}
+
+.hobby{
+    font-size: 26px;color:darkorange;font-family:Marck Script
+} 
+.three{display:flex;margin-right: 40px;}
+p{color:aliceblue}
+
+
+.pic{width: 10px;height: 10px;width: 30%;}
+
+.sp{margin-right: 32px;line-height: 24px;}
+.mu{margin-right: 32px;line-height: 24px;}
+.ar{margin-right: 32px;line-height: 24px;}
+.sports{margin-right: 30px; opacity: 70%;font-size: 20px;}
+.musical{margin-right: 32px;opacity: 70%;font-size: 20px;line-height: 24px;}
+.art{margin-right: 30px; opacity: 70%;font-size: 20px;}
+
+.words{ font-size: 26px;font-family:Marck Script;
+    color:darkorange}
+.good{ padding: 2px;line-height: 24px;font-size:  18px;}
